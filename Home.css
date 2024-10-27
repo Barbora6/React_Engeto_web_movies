@@ -1,0 +1,11 @@
+.home-page {
+    text-align: center;
+    color: red;
+    font-size: 28px;
+    letter-spacing: 3px;
+}
+
+.home-page:hover {
+    color: white;
+    font-size: 33px;
+}

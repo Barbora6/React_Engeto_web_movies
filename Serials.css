@@ -1,0 +1,13 @@
+.serials-page {
+    text-align: center;
+    font-size: 28px;
+    color: red;
+    letter-spacing: 3px;
+    text-decoration: underline;
+}
+
+.serials-page:hover {
+    color: white;
+    font-size: 36px;
+    text-decoration: none;
+}
