@@ -1,0 +1,28 @@
+header {
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 25px;
+    font-size: 20px;
+}
+
+.activeLink {
+    color: red;
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+
+.activeLink:hover {
+    font-size: 28px;
+}
+
+.nonactiveLink {
+    color: rgb(160, 160, 160)
+}
